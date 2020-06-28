@@ -1,0 +1,34 @@
+”To Breakfast or Not to Breakfast?” by Richard Ayore
+
+In the American society, birthdays are one of those days that everyone looks for-
+ward to. People of different ages and peer groups gather to mark the 18th, 20th, .
+
+. . birthdays. During this time, one looks back to see what he or she had achieved
+for the past year, and also focuses ahead for more to come. If, by any chance, I
+am invited to one of these parties, my experience is always different. Instead of
+dancing around with my friends while the music is booming, I get carried away by
+memories of my family back home in Kenya. I remember the good times I had with
+my brothers and sister while we did our daily routine. Every morning, I remember
+we went to the shamba (garden) to weed our crops. I remember one day arguing
+with my brother as to why he always remained behind just to join us an hour later.
+In his defense, he said that he preferred waiting for breakfast before he came to
+weed. He said, ”This is why I always work more hours than you guys!” And so, to
+prove his wrong or right, we decided to give it a try. One day we went to work as
+usual without breakfast, and recorded the time we could work before getting tired
+and stopping. On the next day, we all ate breakfast before going to work. We
+recorded how long we worked again before getting tired and stopping. Of interest
+was our mean increase in work time. Though not sure, my brother insisted that it
+is more than two hours. Using the data below, solve our problem.
+
+ Work hours with breakfast           Work hours without breakfast
+
+           8                                      6
+           7                                      5
+           9                                      5
+           5                                      4
+           9                                      7
+           8                                      7
+           10                                     7
+           7                                      5
+           6                                      6
+           9                                      5
